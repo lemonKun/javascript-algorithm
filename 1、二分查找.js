@@ -23,5 +23,5 @@ function BinarySearch(arr, item) {
     return '没有所查找的元素';
 }
 
-let arr = [1, 2, 44, 45, 66, 108];
-console.log(BinarySearch(arr, 108));
+let arr = [1, 2, 43, 45, 66, 108];
+console.log(BinarySearch(arr));
